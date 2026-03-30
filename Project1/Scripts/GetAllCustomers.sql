@@ -3,6 +3,6 @@ CREATE PROCEDURE dbo.GetAllCustomers
 AS
 BEGIN
     SELECT * FROM Customers
-    where 1=1;
+    where 2=2;
 END;
 GO
